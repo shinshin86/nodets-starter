@@ -2,6 +2,20 @@
 
 My starter kit of Node.js script using TypeScript
 
+## Project Setup
+
+Clone and Git initialize
+
+```bash
+# clone
+git clone https://github.com/shinshin86/nodets-starter.git {project name}
+cd {project name}
+
+# git initialize
+rm -rf .git
+git init
+```
+
 ## Commands
 
 Scripts start
